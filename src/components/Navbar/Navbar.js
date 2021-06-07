@@ -38,6 +38,8 @@ export default function Navb() {
           </Form>
         </Navbar.Collapse>
       </Navbar>
+
+      <hr className="hr-end" />
     </div>
   );
 }

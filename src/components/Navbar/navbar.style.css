@@ -10,3 +10,14 @@ a{
 a:hover{
     text-decoration: none;
 }
+
+
+.hr-end{
+    background: none;
+  border: none;
+  width: auto;
+  height: 0;
+  border-top: 2px dotted lightgray;
+  border-left: 90px solid transparent; /* shortening left side*/
+  border-right: 90px solid transparent; /* shortening right side*/
+}
